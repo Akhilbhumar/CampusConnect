@@ -2,6 +2,7 @@
   "name": "campusconnect",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/CampusConnect",
   "type": "module",
   "scripts": {
     "dev": "vite",
